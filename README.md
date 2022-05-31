@@ -1,6 +1,6 @@
 # diel-project.github.io
 
-Welcome to the official website of the Global Animal Diel Activity Project. 
+Global Animal Diel Activity Project website. 
 
 # Project context
 
