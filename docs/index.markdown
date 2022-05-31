@@ -14,9 +14,13 @@ In this project, we are estimating mammal diel activity across the globe in a ri
 
 # Project leads
 The team leading this project is comprised of:
+
 1) [Kadambari Devarajan](http://kadambarid.in/) is a postdoctoral researcher at the University of Rhode Island. 
+
 2) [Brian Gerber](https://web.uri.edu/gerberslab/) is an assistant professor at the University of Rhode Island. 
+
 3) [Mason Fidino](https://masonfidino.com/) is a quantitative ecologist at the Lincoln Park Zoo. 
+
 4) [Zach Farris](https://farriszj.wixsite.com/mysite) is an assistant professor at Appalachian State University.
 
 We have an extensive list of collaborators from around the world who have shared their camera trap datasets for this project. 
