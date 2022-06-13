@@ -12,9 +12,7 @@ The diel activity (activity over the 24-hour period of time) of organisms is typ
 
 In this project, we are estimating mammal diel activity across the globe in a rigorous and comparable framework. We are specifically focused on non-volant mammals that are detectable via camera traps. 
 
-
-{% include website_map_projects.html %}
-
+[Map of datasets by project]({% link map_projects.md %})
 
 # Project leads
 The team leading this project is comprised of:
