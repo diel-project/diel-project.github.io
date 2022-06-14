@@ -14,9 +14,11 @@ In this project, we are estimating mammal diel activity across the globe in a ri
 
 # Maps
 
+<iframe src="/_includes/website_map_projects.html" height="600px" width="100%" style="border:none;"></iframe>
+
 * [Map of datasets color-coded by number of projects per country]({% link map_projects.md %})
 
-* [Map of datasets by color-coded by number of species per country]({% link map_species.md %})
+
 
 # Project leads
 The team leading this project is comprised of:

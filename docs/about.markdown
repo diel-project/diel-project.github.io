@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+* [Map of datasets by color-coded by number of species per country]({% link map_species.md %})
+
 As part of this project, we are working on: 
 
 1) providing the first empirically-based estimates of diel activity and plasticity for a global distribution of species that will be compared against traditional definitions and classifications. 
