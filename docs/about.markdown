@@ -3,6 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Project core team
+
+This project is led by [Kadambari Devarajan](http://kadambarid.in/), [Brian Gerber](https://web.uri.edu/gerberslab/), [Mason Fidino](https://masonfidino.com/), and [Zach Farris](https://farriszj.wixsite.com/mysite).
+
+We have an extensive list of collaborators from around the world who have shared their camera trap datasets for this project. 
+
+<iframe src="https://diel-project.github.io/map_species.html" height="500px" width="100%" style="border:none;"></iframe>
+
 * [Map of datasets by color-coded by number of species per country]({% link map_species.md %})
 
 As part of this project, we are working on: 

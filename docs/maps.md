@@ -3,6 +3,9 @@ layout: page
 title: Maps
 permalink: /maps/
 ---
+<iframe src="https://diel-project.github.io/map_projects.html" height="500px" width="100%" style="border:none;"></iframe>
+* Map of datasets color-coded by number of projects per country from processed collaborators' trail camera data.
+
 # Maps of datasets 
 
 * [by number of projects per country]({% link map_projects.md %})
