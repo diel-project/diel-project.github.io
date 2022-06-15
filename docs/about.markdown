@@ -9,7 +9,7 @@ This project is led by [Kadambari Devarajan](http://kadambarid.in/), [Brian Gerb
 
 <iframe src="https://diel-project.github.io/map_species.html" height="500px" width="100%" style="border:none;"></iframe>
 
-* [Map of datasets color-coded by number of species per country]({% link map_species.md %})
+* [Map of datasets color-coded by number of species per country.]({% link map_species.md %}) Hover over different countries to get country-specific summaries.
 
 As part of this project, we are working on: 
 
