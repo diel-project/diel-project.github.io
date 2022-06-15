@@ -29,3 +29,5 @@ The team leading this project is comprised of:
 4) [Zach Farris](https://farriszj.wixsite.com/mysite) is an assistant professor at Appalachian State University.
 
 We have an extensive list of collaborators from around the world who have shared their camera trap datasets for this project. 
+
+Check out our [updates page]({% link updates.markdown %} for project news and timelines.
