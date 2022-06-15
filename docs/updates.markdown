@@ -5,7 +5,7 @@ permalink: /updates/
 
 # News
 
-* We have over 3 million records from more than 8000 sites spanning 20 countries (and counting) as of June 2022. The data is continuing to roll in! Check out our [maps page]({% link map.md %} for our current process data statistics.
+* We have over 3 million records from more than 8000 sites spanning 20 countries (and counting) as of June 2022. The data is continuing to roll in! Check out our [maps page]({% link map.md %} for our current process data statistics. Hover over different countries in the maps to get country-specific summaries.
 
 * The project website is live. Stay tuned for more project updates!
 

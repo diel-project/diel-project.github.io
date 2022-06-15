@@ -14,7 +14,7 @@ In this project, we are estimating mammal diel activity across the globe in a ri
 
 <iframe src="https://diel-project.github.io/map_projects.html" height="500px" width="100%" style="border:none;"></iframe>
 
-* [Map of datasets color-coded by number of projects per country]({% link map_projects.md %}) from processed collaborators' trail camera data. 
+* [Map of datasets color-coded by number of projects per country]({% link map_projects.md %}) from processed collaborators' trail camera data. Hover over different countries to get country-specific summaries.
 
 
 # Project leads
