@@ -6,7 +6,7 @@ permalink: /updates/
 
 # News
 
-* We ended the summer of 2022 with over 7 million records from over 35 countries with a tally of 6.4 BILLION camera trap nights across sites. We are wrapping up preliminary processing and transitioning to analysis in September 2022.
+* We ended the summer of 2022 with over 7 million records from more than 35 countries and a tally of 6.4 BILLION camera trap nights across sites. We are wrapping up preliminary processing and transitioning to analysis in September 2022.
 
 * We have over 3 million records from more than 8000 sites spanning 20 countries (and counting) as of June 2022. The data is continuing to roll in! 
 
