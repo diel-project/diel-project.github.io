@@ -6,7 +6,7 @@ permalink: /updates/
 
 # News
 
-* The [preprint](https://www.biorxiv.org/content/10.1101/2023.06.21.545898v1) of our model-based hypothesis framework to define and estimate the diel niche using our bespoke R package ([Diel.Niche]((https://github.com/diel-project/Diel-Niche-Modeling)) is now available on Biorxiv.
+* The [preprint](https://www.biorxiv.org/content/10.1101/2023.06.21.545898v1) of our model-based hypothesis framework to define and estimate the diel niche using our bespoke R package ([Diel.Niche](https://github.com/diel-project/Diel-Niche-Modeling)) is now available on Biorxiv.
 
 * Our Diel.Niche R package is now live: [https://github.com/diel-project/Diel-Niche-Modeling](https://github.com/diel-project/Diel-Niche-Modeling)
 
