@@ -6,9 +6,13 @@ permalink: /updates/
 
 # News
 
+* The [preprint](https://www.biorxiv.org/content/10.1101/2023.06.21.545898v1) of our model-based hypothesis framework to define and estimate the diel niche using our bespoke R package ([Diel.Niche]((https://github.com/diel-project/Diel-Niche-Modeling)) is now available on Biorxiv.
+
+* Our Diel.Niche R package is now live: [https://github.com/diel-project/Diel-Niche-Modeling](https://github.com/diel-project/Diel-Niche-Modeling)
+
 * The di(el)ves have processed 8.6 MILLION records spanning 39 countries and almost 20k sites. We have frozen our data, wrapping up our data checks, and starting our analyses in Sep/Oct 2022. The fun begins!
 
-* We ended the summer of 2022 with over 7 million records from more than 35 countries and a tally of 6.4 BILLION camera trap nights across sites. We are wrapping up preliminary processing and transitioning to analysis in September 2022.
+* We ended the summer of 2022 with over 7 million records from more than 35 countries and a tally of ten thousand years equivalent of camera trap nights across sites. We are wrapping up preliminary processing and transitioning to analysis in September 2022.
 
 * We have over 3 million records from more than 8000 sites spanning 20 countries (and counting) as of June 2022. The data is continuing to roll in! 
 
